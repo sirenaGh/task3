@@ -1,0 +1,22 @@
+div{
+    
+    height: auto;
+}
+.button1{
+    float: right;
+    margin-left: 10%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color:#bccfd8;
+    color: #fff;
+    border-radius: 7px;
+    border-color: #77868d;
+}
+img{
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 20px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

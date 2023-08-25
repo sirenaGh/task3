@@ -1,0 +1,21 @@
+.recent{
+    margin-top: 5rem;
+}
+.recent .header2{
+    width: max-content;
+    margin: 0 auto;
+    font-size: 3rem;
+   
+}
+.recent .header3{
+    width: max-content;
+    margin: 0 auto;
+    color: #118a8a;
+}
+.recent .RecentCont{
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto 0;
+}

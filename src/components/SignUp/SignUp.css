@@ -1,0 +1,16 @@
+.form1{
+    justify-content: space-between;
+    float: right;
+    margin-right: 30px;
+    
+}
+.form1 input{
+    border-radius: 20px;
+    border: none;
+    padding: 8px;
+    margin-right: 20px;
+}
+.form1 button{
+    border: none;
+    padding: 5px;
+}

@@ -1,0 +1,19 @@
+.about{
+    margin-bottom: 20%;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.about p{
+    float: left;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #118a8a;
+}
+.about img{
+    margin-top: -20px;
+    float: right;
+    width: 400px;
+}

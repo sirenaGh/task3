@@ -1,0 +1,25 @@
+.recent .RecentCont .card{
+    width: 345px;
+    border-radius: 7px;
+    cursor: pointer;
+    padding:  1rem ;
+    box-shadow: 0 5px 25px 2px rgba(0,0,0,0.11);
+}
+.recent .RecentCont .card .image{
+    width: 100%;
+    height: 190px;
+    border-radius: 7px;
+    overflow: hidden;
+}
+.recent .RecentCont .card img{
+    width: 100%;
+    transition: all 0.5s;
+}
+.recent .RecentCont .card:hover img{
+    width: 100%;
+   transform: scale(1.5);
+}
+h2{
+    text-align: center;
+    color: #118a8a;
+}

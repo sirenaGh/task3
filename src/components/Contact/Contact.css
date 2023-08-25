@@ -1,0 +1,19 @@
+.cont{
+    background: #118a8a;
+}
+.cont input{
+    border-radius: 20px;
+    border: none;
+    padding: 8px;
+    
+}
+.cont h1{
+    text-align: center;
+}
+.cont h2{
+    float: left;
+}
+.cont p{
+    margin: 50px;
+    color: white;
+}
